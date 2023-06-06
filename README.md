@@ -12,3 +12,6 @@ MonogoDB
 
 # Flow Chart Link
 https://www.figma.com/proto/yTaUrQa07BFVux7JrqfGii/Untitled?type=design&node-id=1-82&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A82
+
+### Full project is found in the CS346-project.zip file
+
